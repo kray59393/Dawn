@@ -45,8 +45,8 @@
    activate
    Linux（服务器）：
    python3 -m venv venv
-   cd venv/Scripts
-   activate
+   cd venv/bin
+   source activate
    cd ../..
    ```
 3. 安装依赖：
