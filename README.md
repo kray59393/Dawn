@@ -25,6 +25,7 @@
 ## 💻 环境及需要的账户
 
 - Python >= 3.11
+- 安装Python虚拟环境
 - 能注册DAWN的邮箱号
 - 代理IP（可选）
 
@@ -38,7 +39,12 @@
    ```
 2. 创建并激活虚拟环境：
    ```bash
+   Windows系统：
    python -m venv venv
+   cd venv/Scripts
+   activate
+   Linux（服务器）：
+   python3 -m venv venv
    cd venv/Scripts
    activate
    cd ../..
