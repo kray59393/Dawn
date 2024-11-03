@@ -1,5 +1,5 @@
 # Dawn Extension Bot [1.5]
-
+# 原作者https://github.com/Jaammerr/The-Dawn-Bot 防止正义人士
 <div align="center">
   <img src="./console/1.png" alt="Dawn Extension Bot Console" width="600"/>
 </div>
